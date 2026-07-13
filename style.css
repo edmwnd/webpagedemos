@@ -9,7 +9,7 @@ h1{font-size:40px;font-weight:600;margin:0}
 .vuit-card{background:#fff;border-radius:30px;padding:48px;box-shadow:0 24px 60px rgba(0,0,0,.08);text-align:center;animation:fade .5s ease}
 .check-circle{width:100px;height:100px;margin:0 auto 20px}
 .check-svg{width:100%;height:100%}
-.ring,.tick{fill:none;stroke:#C8A977;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+.ring,.tick{fill:none;stroke:#8BA18E;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
 .ring{stroke-dasharray:264;stroke-dashoffset:264;animation:draw .6s forwards}
 .tick{stroke-dasharray:60;stroke-dashoffset:60;animation:draw .4s .5s forwards}
 @keyframes draw{to{stroke-dashoffset:0}}
